@@ -1,10 +1,10 @@
 /* Populate tables */
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Leanys','Pineda','leanysp@gmail.com','2020-07-07');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Ho','Tolosa','htolosam@gmail.com','2020-07-07');
-INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Aria','Tolosa','leanysp@gmail.com','2020-07-07');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Aria','Tolosa','aria@gmail.com','2020-07-07');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Sebastian','Pineda','sebastian@gmail.com','2020-07-07');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Oscar','Pineda','oscar@gmail.com','2020-07-07');
-INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Jader','Tolosa','jader@gmail.com','2020-07-07');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Jader','Pineda','jader@gmail.com','2020-07-07');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Dariel','Pineda','dariel@gmail.com','2020-07-07');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Jaime','Pineda','jaime@gmail.com','2020-07-07');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Ana','Ortega','ana@gmail.com','2020-07-07');
